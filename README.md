@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samaalmehmadi&label=Profile%20views&color=0e75b6&style=flat" alt="samaalmehmadi" /> </p>
 
-- 🔭 I’m currently working on **serval projects**
+- 🔭 I’m currently working on **Sura project**
 
 - 🌱 I’m currently learning **Flutter to develop web and mobiles apps**
 
