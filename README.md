@@ -9,9 +9,9 @@
 
 - 👯 👯 I’m looking to collaborate on **any interesting**
 
-- 🤝 I’m interested in **Ai ,web and mobiles apps**
+- 🤝 I’m interested in **DevOps ,Ai and web development**
 
-- 💬 Ask me about **Dart, Flutter, Java, Python**
+- 💬 Ask me about **Dart, Flutter,Flask , Java, Python**
 
 - 📫 How to reach me **sama.almehamdi@gmail.com**
 
