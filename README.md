@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **AstorX project**
 
-- 🌱 I’m currently learning **deep learning **
+- 🌱 I’m currently learning **deep learning**
 
 - 👯 👯 I’m looking to collaborate on **any interesting**
 
