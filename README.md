@@ -3,17 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samaalmehmadi&label=Profile%20views&color=0e75b6&style=flat" alt="samaalmehmadi" /> </p>
 
-- 🔭 I’m currently working on **AstorX project**
-
-- 🌱 I’m currently learning **deep learning**
-
 - 👯 👯 I’m looking to collaborate on **any interesting**
+- 🤝 I’m interested in **Cybersecurity**
 
-- 🤝 I’m interested in **DevOps ,Ai and web development**
-
-- 💬 Ask me about **Dart, Flutter,Flask , Java, Python**
-
-- 📫 How to reach me **sama.almehamdi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
